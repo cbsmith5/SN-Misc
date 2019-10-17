@@ -27,3 +27,5 @@ for(var i=0; i<list_split.length;i++)
 	gr.insert();
 
 }
+
+//note for cheyenne: list collector table is cmdb_ci
