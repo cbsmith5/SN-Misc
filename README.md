@@ -1,2 +1,2 @@
-
-ServiceNow: Generate Tasks via list collector. View taskCreator for comments.
+#ServiceNow
+taskCreator: Generates task based on a list collector variable.
