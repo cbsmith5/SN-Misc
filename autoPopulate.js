@@ -12,3 +12,5 @@ function onChange(control, oldValue, newValue, isLoading) {
 		g_form.setValue('tla_name', requestFrom.u_customer_account);
 	}
 }
+
+//note for cheyenne: TLA reference is sys_user_group TLA Name reference is  core_company.
